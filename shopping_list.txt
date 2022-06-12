@@ -3,3 +3,4 @@ banana x 7
 orange x 1
 papaya x 10
 cherry x 5
+pineapple x 4
