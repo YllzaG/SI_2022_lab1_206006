@@ -2,4 +2,4 @@ apple x 3
 banana x 5
 orange x 1
 pear x 10
-cherry x 2
+cherry x 5
